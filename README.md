@@ -4,6 +4,8 @@ Um agente que lê vagas de três fontes, descarta o que não serve por regra, ra
 similaridade com o perfil do candidato e só então chama um LLM para dar nota a cada vaga, com o
 motivo, o que o candidato tem e o que falta. Sai um relatório HTML ordenado por nota.
 
+![Relatório gerado com o perfil de exemplo](docs/relatorio.png)
+
 Projeto de estudo de agentes com LLM: funil de custo, saída estruturada e avaliação do modelo.
 
 ## Números de uma rodada real (30/10 a 06/11/2026)
