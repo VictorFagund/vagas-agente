@@ -56,6 +56,21 @@ O funil existe por causa do custo: o plano gratuito da Groq dá 200 mil tokens p
 marcar "eu me candidataria?" e mede a concordância com a IA (kappa, matriz de confusão e erros
 graves, como a IA dar 90 numa vaga que ele recusaria).
 
+## Status: protótipo
+
+Roda local, por linha de comando, com um perfil por vez. Funciona e já foi usado de verdade, mas não
+tem interface nem agendamento.
+
+### Projeção
+
+1. **Fechar a bancada:** 30 vagas rotuladas às cegas para publicar a concordância com a IA e ajustar a
+   régua de nota onde ela erra.
+2. **Rodar sozinho:** execução diária agendada (cron ou n8n) mandando só as vagas novas com nota 70+
+   por e-mail ou Telegram.
+3. **Mais fontes:** InHire e Solides (outros ATS muito usados no Brasil), e checagem automática de vaga
+   já encerrada.
+4. **Vários perfis:** cada pessoa sobe o currículo, o perfil é extraído por IA e o funil roda por usuário.
+
 ## Rodar
 
 ```bash
