@@ -1,0 +1,19 @@
+# Um termo por linha. Cada termo vira uma busca na Gupy.
+PL/SQL
+SQL
+banco de dados
+DBA
+analista de sistemas
+desenvolvedor júnior
+desenvolvedor python
+python
+analista de suporte
+suporte N2
+ERP
+integração
+automação
+inteligência artificial
+GenAI
+IA
+analista de dados
+residência

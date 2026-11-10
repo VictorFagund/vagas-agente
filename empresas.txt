@@ -1,0 +1,19 @@
+# Quadros públicos de vaga (fonte e identificador do quadro). Conferidos em 30/10/2026.
+# Para achar o de uma empresa nova: a página de carreiras dela aponta para
+# boards.greenhouse.io/<id> ou jobs.lever.co/<id>.
+greenhouse quintoandar
+greenhouse stone
+greenhouse ebanx
+greenhouse wildlifestudios
+greenhouse vtex
+greenhouse inter
+greenhouse c6bank
+greenhouse xpinc
+greenhouse btgpactual
+greenhouse rdstation
+greenhouse jusbrasil
+greenhouse gympass
+greenhouse blip
+lever neon
+lever ciandt
+lever swile
